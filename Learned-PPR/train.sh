@@ -1,1 +1,1 @@
-python ./Main_linear.py --gpus 3 --code_type RLC --code_k 12 --code_n 20 --code_l 50
+python ./Main_linear.py --gpus 3 --code_k 12 --code_n 20 --code_l 50
