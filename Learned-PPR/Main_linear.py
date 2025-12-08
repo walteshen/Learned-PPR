@@ -314,12 +314,11 @@ if __name__ == "__main__":
     code.l = args.code_l
     code.k = args.code_k
     code.n = args.code_n
-    code.code_type = args.code_type
+
     args.code = code
     ####################################################################
     model_dir = os.path.join(
         "Results_Learned_PPR",
-        args.code_type
         + "__Code_n_"
         + str(args.code_n)
         + "_k_"
