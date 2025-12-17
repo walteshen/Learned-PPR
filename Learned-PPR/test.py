@@ -1,9 +1,3 @@
-"""
-Implementation of "Error Correction Code Transformer" (ECCT)
-https://arxiv.org/abs/2203.14966
-@author: Yoni Choukroun, choukroun.yoni@gmail.com
-"""
-
 from __future__ import print_function
 import argparse
 import random
