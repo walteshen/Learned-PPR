@@ -1,9 +1,3 @@
-"""
-@author: Yoni Choukroun, choukroun.yoni@gmail.com
-Error Correction Code Transformer
-https://arxiv.org/abs/2203.14966
-"""
-
 import numpy as np
 import torch
 import os
