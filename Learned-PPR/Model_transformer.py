@@ -1,9 +1,3 @@
-"""
-@author: Yoni Choukroun, choukroun.yoni@gmail.com
-Error Correction Code Transformer
-https://arxiv.org/abs/2203.14966
-"""
-
 from torch.nn import LayerNorm
 import torch
 import torch.nn as nn
